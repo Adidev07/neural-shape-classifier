@@ -1,0 +1,12 @@
+{
+  "project": "Neural Image Pattern Classifier",
+  "test_accuracy": 1.0,
+  "majority_baseline_accuracy": 0.3,
+  "initial_loss": 1.1314835938185357,
+  "final_loss": 0.00385911279044809,
+  "classes": [
+    "vertical",
+    "horizontal",
+    "diagonal"
+  ]
+}
